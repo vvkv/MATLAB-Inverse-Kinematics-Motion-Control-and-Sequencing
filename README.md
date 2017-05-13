@@ -1,2 +1,2 @@
-# MATLAB-Inverse-Kinematics-Motion-Control-and-Sequencing
+# MATLAB Inverse Kinematics Motion Control and Sequencing
 In this lab, I use MATLAB to calculate the inverse kinematics and program the AL5D to move and achieve the desired positons by changing the values in software. I developed the complete inverse kinematics solution for the joint variables. This was developed based on the frames assignment and the forward kinematics solution developed in the previous lab. After getting the inverse kinematics solution, the joint values (θ1, θ2, θ3, θ4, θ5) are solved that will produce the assigned positions and orientations (T0t) of the end effector in the world frame (F0) provided in the lab manual. 
